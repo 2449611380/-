@@ -1,1 +1,1 @@
-# -
+# Pixel computing mobile terminal
